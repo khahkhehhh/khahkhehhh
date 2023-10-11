@@ -1,20 +1,20 @@
 
 <summary><b>🛠️ About Me</b></summary>
   <div>
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 10px 0;">
+<div>
   Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data into valuable insights and building data pipelines that make a difference 💡🔌
 
   📚 Third-year data Engineering Student at Universiti Teknologi Malaysia  
   📊 Data Enthusiast | 💻 Code Composer | ♟️ Chess Enthusiast
-
-  🌱 Constantly learning and growing in the fields of data and code.  
+ 
   🚀 Passionate about turning data into actionable insights.
+  🌱 Constantly learning and growing in the fields of data and code. 
 </div>
 
 
 
 <summary><b>📧 Connect with me</b></summary>
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 10px 0;">
+<div>
   <a href="mailto:fongkheh@graduate.utm.my">
   <img src="https://static.vecteezy.com/system/resources/thumbnails/020/964/377/small_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" width="50" height="50">
 </a>
@@ -26,7 +26,7 @@
 
 
 <summary><b>💻 Languages and Tools</b></summary>
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 10px 0;">
+<div>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" height="70">
@@ -40,7 +40,7 @@
 
 
 <summary><b>📊 GitHub Statistic</b></summary>
-<div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 10px 0;">
+<div>
   <img src="https://github-readme-stats.vercel.app/api?username=khahkhehhh&show_icons=true&theme=white">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=khahkhehhh&theme=transparent&mode=weekly" alt="GitHub Streak" />
 </div>
