@@ -15,10 +15,13 @@
 <details open>
 <summary><b>📧 Connect with me</b></summary>
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 10px 0;">
-  📧 Email: <a href="mailto:fongkheh@graduate.utm.my">fongkheh@graduate.utm.my</a>
-
-  <a href="https://www.linkedin.com/in/fong-khah-kheh-0a539625a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/khahkhehhh__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  <a href="mailto:fongkheh@graduate.utm.my">
+  <img src="https://static.vecteezy.com/system/resources/thumbnails/020/964/377/small_2x/gmail-mail-icon-for-web-design-free-png.png" alt="Gmail" width="50" height="50">
+</a>
+  
+  <a href="https://www.linkedin.com/in/fong-khah-kheh-0a539625a/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="50" width="50" /></a>
+  
+  <a href="https://instagram.com/khahkhehhh__" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
 </div>
 </details>
 
@@ -26,6 +29,7 @@
 <summary><b>💻 Languages and Tools</b></summary>
 <div style="background-color: #f5f5f5; padding: 20px; border-radius: 5px; margin: 10px 0;">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
   <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/182px-Java_programming_language_logo.svg.png" height="70">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/182px-PHP-logo.svg.png" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/180px-HTML5_logo_and_wordmark.svg.png" height="60">
