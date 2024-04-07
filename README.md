@@ -75,6 +75,8 @@ Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data in
 
 - [Car booking System](https://github.com/khahkhehhh/Car-Booking-System)
 
+- [Course Registration System](https://github.com/khahkhehhh/Course-Registration-System)
+
 </details>
 <br>
 
