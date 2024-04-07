@@ -1,17 +1,17 @@
-<p align="center"><img align="center" alt="Coding" width="140" height="180" src="https://github.com/drshahizan/HPDP/blob/main/portfolio/khahkhehhh/rsz_photo_2021-09-25_15-23-14.jpg">
+<div style="display: flex; align-items: center;">
+  <div>
+    <summary><b>🛠️ About Me</b></summary>
+    <br>
+    Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data into valuable insights and building data pipelines that make a difference 💡🔌
 
-  
-<summary><b>🛠️ About Me</b></summary>
-<br>
-Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data into valuable insights and building data pipelines that make a difference 💡🔌
+    - 📚 Third-year Data Engineering Student at Universiti Teknologi Malaysia  
+    - 📊 Data Enthusiast | 💻 Code Composer | ♟️ Chess Enthusiast
+    - 🚀 Passionate about turning data into actionable insights.
+    - 🌱 Constantly learning and growing in the fields of data and code.
+  </div>
+  <img align="right" alt="Coding" width="180" height="180" src="https://github.com/khahkhehhh/khahkhehhh/blob/main/cat-typing.gif">
+</div>
 
-- 📚 Third-year Data Engineering Student at Universiti Teknologi Malaysia  
-- 📊 Data Enthusiast | 💻 Code Composer | ♟️ Chess Enthusiast
-- 🚀 Passionate about turning data into actionable insights.
-- 🌱 Constantly learning and growing in the fields of data and code.
-
-</details>
-<br>
 
 
 <details open>
