@@ -71,7 +71,7 @@ Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data in
 <summary><b> Projects </b></summary>
   <br>
 
-- [Intellect Playschool Management System Project](https://vvintellect.com/index.php) - Program registration & Assessment
+- [Intellect Playschool Management System Project](https://github.com/khahkhehhh/Intellect-Playschool-Management-System) - Program registration & Assessment
 
 - [Car booking System](https://github.com/khahkhehhh/Car-Booking-System)
 
