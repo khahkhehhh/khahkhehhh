@@ -77,6 +77,8 @@ Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data in
 
 - [Course Registration System](https://github.com/khahkhehhh/Course-Registration-System) (C++)
 
+- [Data Analytics Programming](https://github.com/khahkhehhh/Data-Analytics-Programming) (Python in Machine Learning)
+
 </details>
 <br>
 
