@@ -71,11 +71,11 @@ Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data in
 <summary><b> Projects </b></summary>
   <br>
 
-- [Intellect Playschool Management System Project](https://github.com/khahkhehhh/Intellect-Playschool-Management-System) - Program registration & Assessment
+- [Intellect Playschool Management System Project](https://github.com/khahkhehhh/Intellect-Playschool-Management-System) - Program registration & Assessment (PHP,HTML,MySQL,Bootstrap,MariaDB,CSS,JavaScript)
 
-- [Car booking System](https://github.com/khahkhehhh/Car-Booking-System)
+- [Car booking System](https://github.com/khahkhehhh/Car-Booking-System) (PHP,HTML,MySQL,Bootstrap,MariaDB,CSS,JavaScript)
 
-- [Course Registration System](https://github.com/khahkhehhh/Course-Registration-System)
+- [Course Registration System](https://github.com/khahkhehhh/Course-Registration-System) (C++)
 
 </details>
 <br>
