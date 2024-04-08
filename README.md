@@ -82,6 +82,9 @@
 
 - [Data Analytics on Annual Greenhouse Gas (GHG) Air Emissions Accounts](https://github.com/khahkhehhh/Data-Analytics-Programming) (Python in Machine Learning)
 
+- [Big Data Handling for Craft Beer Dataset](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass6/hpdp/ObehSong
+) (Python with PySpark, Pandas and DataTable libraries)
+
 </details>
 <br>
 
