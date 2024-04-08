@@ -82,7 +82,7 @@
 
 - [Data Analytics on Annual Greenhouse Gas (GHG) Air Emissions Accounts](https://github.com/khahkhehhh/Data-Analytics-Programming) (Python in Machine Learning)
 
-- [Big Data Handling for Craft Beer Dataset](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT
+- [Big Data Handling for Brewery Operations and Market Analysis](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT
 ) (Python with PySpark, Pandas and DataTable libraries)
 
 </details>
