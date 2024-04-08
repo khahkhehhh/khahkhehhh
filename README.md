@@ -1,26 +1,22 @@
-<img style="display: block; margin: 0 auto;" alt="Coding" width="360" height="180" src="https://github.com/khahkhehhh/khahkhehhh/blob/main/cat-typing.gif">
+<div style="text-align:center;">
+  <img src="download.gif" alt="Welcome to my Github profile!" width="1000" height="300">
+</div>
 
-### Hi there! 👋
+<details open>
+<summary><b>🌟 About me</b></summary>
+<br>
+<p>Wassup! I'm Fong Khah Kheh, a third-year Data Engineering student at Universiti Teknologi Malaysia. My passion lies in leveraging data to drive innovation and solve real-world problems. Currently pursuing a Bachelor's degree in Computer Science with a major in Data Engineering, I'm dedicated to constantly learning and growing in the dynamic fields of data and code.</p>
+<ul>
+  <li>🏡 Hailing from<strong> Johor Bahru, Johor</strong></li>
+  <li>🌱 Always evolving and striving to excel in data and code.</li>
+  <li>💻 Currently diving into <strong>ASP.NET</strong></li>
+  <li>♟️ Enjoy <strong>playing chess</strong>, <strong>spending time with my cat</strong>, and <strong>exploring new cafes</strong>.</li>
+  <li>🌌 One thing I always believe: <strong>"Remember, the Force will be with you. Always."</strong> - Obi-Wan Kenobi, 'Star Wars: Episode IV - A New Hope'.</li>
+</ul>
+<p>Feel free to connect with me to explore synergies and opportunities for collaboration. Whether it's sharing insights or diving into the world of data engineering together, I'm open to connecting with like-minded individuals who are passionate about data-driven problem-solving methodologies.</p>
+</details> 
 
-I'm Fong Khah Kheh, a third-year Data Engineering student at Universiti Teknologi Malaysia. My passion lies in leveraging data to drive innovation and solve real-world problems. Currently pursuing a Bachelor's degree in Computer Science with a major in Data Engineering, I'm dedicated to constantly learning and growing in the dynamic fields of data and code.
-
-#### About Me:
-
-- 🎓 Third-year Data Engineering Student at Universiti Teknologi Malaysia  
-- 💡 Passionate about harnessing the power of data to drive innovation
-- 🌱 Constantly seeking new ways to apply my skills and knowledge
-- 📊 Skilled in analyzing, visualizing, and extracting insights from complex datasets
-- 🤖 Keen interest in machine learning and its applications
-
-#### Let's Connect!
-
-Feel free to connect with me to explore synergies and opportunities for collaboration. Whether it's sharing insights or diving into the world of data engineering together, I'm open to connecting with like-minded individuals who are passionate about data-driven problem-solving methodologies.
-
-
-
-
-
-<details>
+<details open>
 <summary><b>📧 Connect with me</b></summary>
 <br>
 <a href="mailto:fongkheh@graduate.utm.my">
@@ -34,12 +30,11 @@ Feel free to connect with me to explore synergies and opportunities for collabor
 <a href="https://instagram.com/khahkhehhh__" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="50" width="50" />
 </a> &nbsp
-
 </details>
 <br>
 
 
-<details>
+<details open>
 <summary><b>💻 Languages and Tools</b></summary>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50">&nbsp
@@ -57,7 +52,7 @@ Feel free to connect with me to explore synergies and opportunities for collabor
 </details>
 <br>
 
-<details>
+<details open>
   <summary><b>🏆 Certifications and Awards</b></summary>
   <br>
 <img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="60"/>
@@ -73,7 +68,7 @@ Feel free to connect with me to explore synergies and opportunities for collabor
 
 <br>
 
-<details>
+<details open>
 <summary><b> Projects </b></summary>
   <br>
 
@@ -82,6 +77,10 @@ Feel free to connect with me to explore synergies and opportunities for collabor
 - [Car booking System](https://github.com/khahkhehhh/Car-Booking-System) (PHP,HTML,MySQL,Bootstrap,MariaDB,CSS,JavaScript)
 
 - [Course Registration System](https://github.com/khahkhehhh/Course-Registration-System) (C++)
+  
+- [Burger Delivery System](https://github.com/khahkhehhh/Burger-Delivery-System) (Java)
+
+- [Business Intelligence Analysis](https://github.com/khahkhehhh/Business-Intelligence) (Tableau)
 
 - [Data Analytics Programming](https://github.com/khahkhehhh/Data-Analytics-Programming) (Python in Machine Learning)
 
@@ -90,7 +89,7 @@ Feel free to connect with me to explore synergies and opportunities for collabor
 
 
 
-<details>
+<details open>
 <summary><b>📊 GitHub Statistics</b></summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=khahkhehhh&show_icons=true&theme=white">
