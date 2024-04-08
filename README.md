@@ -80,8 +80,6 @@
   
 - [Burger Delivery System](https://github.com/khahkhehhh/Burger-Delivery-System) (Java)
 
-- [Business Intelligence Analysis](https://github.com/khahkhehhh/Business-Intelligence) (Tableau)
-
 - [Data Analytics on Annual Greenhouse Gas (GHG) Air Emissions Accounts](https://github.com/khahkhehhh/Data-Analytics-Programming) (Python in Machine Learning)
 
 </details>
