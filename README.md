@@ -1,20 +1,26 @@
-<div style="display: flex; align-items: center;">
-  <div>
-    <summary><b>🛠️ About Me</b></summary>
-    <br>
-    Hi there, My name is Fong Khah Kheh! 👋 I'm all about transforming raw data into valuable insights and building data pipelines that make a difference 💡🔌
+<img style="display: block; margin: 0 auto;" alt="Coding" width="360" height="180" src="https://github.com/khahkhehhh/khahkhehhh/blob/main/cat-typing.gif">
 
-    - 📚 Third-year Data Engineering Student at Universiti Teknologi Malaysia  
-    - 📊 Data Enthusiast | 💻 Code Composer | ♟️ Chess Enthusiast
-    - 🚀 Passionate about turning data into actionable insights.
-    - 🌱 Constantly learning and growing in the fields of data and code.
-  </div>
-  <img align="right" alt="Coding" width="180" height="180" src="https://github.com/khahkhehhh/khahkhehhh/blob/main/cat-typing.gif">
-</div>
+### Hi there! 👋
+
+I'm Fong Khah Kheh, a third-year Data Engineering student at Universiti Teknologi Malaysia. My passion lies in leveraging data to drive innovation and solve real-world problems. Currently pursuing a Bachelor's degree in Computer Science with a major in Data Engineering, I'm dedicated to constantly learning and growing in the dynamic fields of data and code.
+
+#### About Me:
+
+- 🎓 Third-year Data Engineering Student at Universiti Teknologi Malaysia  
+- 💡 Passionate about harnessing the power of data to drive innovation
+- 🌱 Constantly seeking new ways to apply my skills and knowledge
+- 📊 Skilled in analyzing, visualizing, and extracting insights from complex datasets
+- 🤖 Keen interest in machine learning and its applications
+
+#### Let's Connect!
+
+Feel free to connect with me to explore synergies and opportunities for collaboration. Whether it's sharing insights or diving into the world of data engineering together, I'm open to connecting with like-minded individuals who are passionate about data-driven problem-solving methodologies.
 
 
 
-<details open>
+
+
+<details>
 <summary><b>📧 Connect with me</b></summary>
 <br>
 <a href="mailto:fongkheh@graduate.utm.my">
@@ -33,7 +39,7 @@
 <br>
 
 
-<details open>
+<details>
 <summary><b>💻 Languages and Tools</b></summary>
 <br>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1200px-ISO_C%2B%2B_Logo.svg.png" height="50">&nbsp
@@ -51,7 +57,7 @@
 </details>
 <br>
 
-<details open>
+<details>
   <summary><b>🏆 Certifications and Awards</b></summary>
   <br>
 <img src="https://images.credly.com/size/680x680/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/azure-data-fundamentals-600x600.png" height="60"/>
@@ -67,7 +73,7 @@
 
 <br>
 
-<details open>
+<details>
 <summary><b> Projects </b></summary>
   <br>
 
@@ -84,7 +90,7 @@
 
 
 
-<details open>
+<details>
 <summary><b>📊 GitHub Statistics</b></summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=khahkhehhh&show_icons=true&theme=white">
