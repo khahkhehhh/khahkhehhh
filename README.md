@@ -85,9 +85,8 @@
 - [Big Data Handling for Brewery Operations and Market Analysis](https://github.com/drshahizan/Python-big-data/tree/main/assignment/ass7/hpdp/KOKONAT
 ) (Comparison between big data libraries with PySpark, Pandas and DataTable libraries)
 
-- [Commerce behavior data from multi category store ](https://github.com/drshahizan/Python-big-data/blob/main/assignment/ass6/hpdp/ObehSong/Assignment_6.ipynb) (Mastering Big Data Handling)
+- [Commerce Behavior Data from Multi-Category Store ](https://github.com/drshahizan/Python-big-data/blob/main/assignment/ass6/hpdp/ObehSong/Assignment_6.ipynb) (Mastering Big Data Handling)
   
-- 
 
 </details>
 <br>
