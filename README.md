@@ -5,11 +5,11 @@
 <details open>
 <summary><b>🌟 About me</b></summary>
 <br>
-<p>Wassup! I'm Fong Khah Kheh, a third-year Data Engineering student at Universiti Teknologi Malaysia. My passion lies in leveraging data to drive innovation and solve real-world problems. Currently pursuing a Bachelor's degree in Computer Science with a major in Data Engineering, I'm dedicated to constantly learning and growing in the dynamic fields of data and code.</p>
+<p>Wassup! I'm Fong Khah Kheh, a fourth-year Data Engineering student at Universiti Teknologi Malaysia. Currently pursuing a Bachelor's degree in Computer Science with a major in Data Engineering, I'm dedicated to constantly learning and growing in the dynamic fields of data and code.</p>
 <ul>
-  <li>🏡 Hailing from<strong> Johor Bahru, Johor</strong></li>
+  <li>🏡 <strong> Johor Bahru, Johor</strong></li>
   <li>🌱 Always evolving and striving to excel in data and code.</li>
-  <li>💻 Currently diving into <strong>ASP.NET</strong></li>
+  <li>💻 Currently exploring <strong>ASP.NET</strong></li>
   <li>♟️ Enjoy <strong>playing chess</strong>, <strong>spending time with my cat</strong>, and <strong>exploring new cafes</strong>.</li>
   <li>🌌 One thing I always believe: <strong>"Remember, the Force will be with you. Always."</strong> - Obi-Wan Kenobi, 'Star Wars: Episode IV - A New Hope'.</li>
 </ul>
